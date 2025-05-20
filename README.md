@@ -42,7 +42,7 @@ An ESP8266-powered tool that jams classic bluetooth signals.
 
 # Install
 1. Download or Clone the Repository.
-2. Open the folder and just double click on `WifiSnare.ino` file.
+2. Open the folder and just double click on `BTNuke.ino` file.
 3. It opens in Arduino IDE.
 4. Compile the code.
 5. Select the correct board from the `Tools` → `Board` → `ESP8266 Boards`.
@@ -53,6 +53,6 @@ An ESP8266-powered tool that jams classic bluetooth signals.
    - The script starts running automatically.
 
 # What happened after script is running?
-- It breaks the sound.
-- It blocks the sound even the device playing the music.
-- Sometimes it disconnects the bluetoth from the device.
+- It create disturbance in the sound.
+- It blocks the sound even the music is playing.
+- Sometimes it disconnects the bluetooth devices.
